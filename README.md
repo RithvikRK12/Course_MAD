@@ -1,50 +1,34 @@
-# Welcome to your Expo app 👋
+# Brainiacs - AI-Powered Mobile Learning App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Brainiacs is a modern, AI-driven mobile learning platform built with React Native. It offers dynamic, personalized courses, interactive quizzes, flashcards, and real-time progress tracking. Whether you're learning something new or sharpening your skills, Brainiacs is your intelligent learning companion.
 
-## Get started
+---
 
-1. Install dependencies
+## Features
 
-   ```bash
-   npm install
-   ```
+- AI-Generated Courses  
+  Courses are generated using Google AI Studio to provide rich, up-to-date, and personalized content.
 
-2. Start the app
+- Interactive Quizzes and Flashcards  
+  Reinforce your knowledge with quizzes and flashcards designed to boost retention and understanding.
 
-   ```bash
-    npx expo start
-   ```
+- User Authentication  
+  Secure login and signup to track individual progress and provide a personalized learning journey.
 
-In the output, you'll find options to open the app in a
+- Progress Tracking  
+  Visual dashboards to monitor course completion, quiz scores, and overall learning performance.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Clean and Responsive UI  
+  Designed for an intuitive and smooth mobile experience using modern React Native practices.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## Tech Stack
 
-When you're ready, run:
+- Frontend: React Native  
+- Backend: Firebase  
+- AI Integration: Google AI Studio  
+- Authentication: Firebase Auth and OAuth  
+- State Management: Context API  
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
